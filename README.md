@@ -14,16 +14,16 @@ Quelsques modèles en Machine Learning et Deep Learning classés par catégories
 - K-Nearest Neighbors (KNN)
 - Naive Bayes
 ### Apprentissage Non Supervisé :
-K-Means
-Clustering hiérarchique
-Analyse en composantes principales (PCA)
-Autoencodeurs (utilisés dans l'apprentissage non supervisé profond)
-Algorithme EM (Expectation-Maximization)
-Apprentissage par Renforcement :
-Q-Learning
-SARSA (State-Action-Reward-State-Action)
-Deep Q Network (DQN)
-Policy Gradient Methods
+- K-Means
+- Clustering hiérarchique
+- Analyse en composantes principales (PCA)
+- Autoencodeurs (utilisés dans l'apprentissage non supervisé profond)
+- Algorithme EM (Expectation-Maximization)
+- Apprentissage par Renforcement :
+- Q-Learning
+- SARSA (State-Action-Reward-State-Action)
+- Deep Q Network (DQN)
+- Policy Gradient Methods
 ## II - Deep Learning :
 ### Modèles de Traitement du Langage Naturel (NLP) :
 - Word Embeddings (Word2Vec, GloVe)
